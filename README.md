@@ -27,7 +27,7 @@ Engineered on a normalized **Star Schema** data model with custom **GPU-accelera
 ## 1. Executive Landing Portal (`Home`)
 
 <div align="center">
-  <img src="https://i.postimg.cc/QKFmmXRg/Screenshot-2026-11-20-085204.png" alt="Executive Landing Portal" width="100%" />
+  <img src="https://i.postimg.cc/GtQfctKf/Screenshot-2026-11-20-085204.png" alt="Executive Landing Portal" width="100%" />
 </div>
 
 ### Key Portal Insights & Highlights
@@ -40,7 +40,7 @@ Engineered on a normalized **Star Schema** data model with custom **GPU-accelera
 ## 2. Commercial Sales & Revenue Intelligence (`Module 01`)
 
 <div align="center">
-  <img src="https://i.postimg.cc/4Kw1T7Gb/Screenshot-2026-11-20-085257.png" alt="Commercial Sales & Revenue Intelligence" width="100%" />
+  <img src="https://i.postimg.cc/Hx1vXXPK/Screenshot-2026-11-20-085257.png" alt="Commercial Sales & Revenue Intelligence" width="100%" />
 </div>
 
 ### Key Commercial Insights
@@ -54,7 +54,7 @@ Engineered on a normalized **Star Schema** data model with custom **GPU-accelera
 ## 3. Logistics & SLA Delivery Intelligence (`Module 02`)
 
 <div align="center">
-  <img src="https://i.postimg.cc/mPs3zN2V/Screenshot-2026-11-20-085326.png" alt="Logistics & SLA Delivery Intelligence" width="100%" />
+  <img src="https://i.postimg.cc/kgVTHTrr/Screenshot-2026-11-20-085326.png" alt="Logistics & SLA Delivery Intelligence" width="100%" />
 </div>
 
 ### Key Supply Chain & SLA Insights
@@ -70,7 +70,7 @@ Engineered on a normalized **Star Schema** data model with custom **GPU-accelera
 ## 4. Customer & Product Intelligence (`Module 03`)
 
 <div align="center">
-  <img src="https://i.postimg.cc/mPfj3WVv/Screenshot-2026-11-20-085358.png" alt="Customer & Product Intelligence" width="100%" />
+  <img src="https://i.postimg.cc/Gm9fCcDm/Screenshot-2026-11-20-085358.png" alt="Customer & Product Intelligence" width="100%" />
 </div>
 
 ### Key Customer Cohort & Catalog Insights
@@ -84,7 +84,7 @@ Engineered on a normalized **Star Schema** data model with custom **GPU-accelera
 ## 5. Strategic Insights & Executive Action Engine (`Module 04`)
 
 <div align="center">
-  <img src="https://i.postimg.cc/hz5bfkfM/Screenshot-2026-11-20-085423.png" alt="Strategic Insights & Actions" width="100%" />
+  <img src="https://i.postimg.cc/NFgNPYYh/Screenshot-2026-11-20-085423.png" alt="Strategic Insights & Actions" width="100%" />
 </div>
 
 ### Key Diagnostic & Prescriptive Insights
@@ -100,7 +100,7 @@ Engineered on a normalized **Star Schema** data model with custom **GPU-accelera
 ## 6. Dynamic Cross-Filtering & Slicer Responsiveness
 
 <div align="center">
-  <img src="https://i.postimg.cc/Q9tJN8xt/Screenshot-2026-11-20-085535.png" alt="Dynamic Cross-Filtering on Technology" width="100%" />
+  <img src="https://i.postimg.cc/tTdS5JKh/Screenshot-2026-11-20-085535.png" alt="Dynamic Cross-Filtering on Technology" width="100%" />
 </div>
 
 ### Interactive Slicer Validation (`Technology` Category Slice)
@@ -114,7 +114,7 @@ Engineered on a normalized **Star Schema** data model with custom **GPU-accelera
 ### Power Query M-Code ETL Pipeline
 
 <div align="center">
-  <img src="https://i.postimg.cc/2b67jk8h/Screenshot-2026-11-20-085958.png" alt="Power Query ETL Pipeline" width="100%" />
+  <img src="https://i.postimg.cc/xCGxR8wx/Screenshot-2026-11-20-085958.png" alt="Power Query ETL Pipeline" width="100%" />
 </div>
 
 - **Data Cleansing & Profiling:** Standardized **`9,800`** raw records (`100%` valid across all columns) by handling missing postal codes, zero-padding 5-digit ZIP codes, enforcing strict column data types, and trimming text fields.
@@ -123,7 +123,7 @@ Engineered on a normalized **Star Schema** data model with custom **GPU-accelera
 ### Star Schema Dimensional Model
 
 <div align="center">
-  <img src="https://i.postimg.cc/5Y0S94N1/Screenshot-2026-11-20-085448.png" alt="Star Schema Data Model" width="100%" />
+  <img src="https://i.postimg.cc/Twj791zy/Screenshot-2026-11-20-085448.png" alt="Star Schema Data Model" width="100%" />
 </div>
 
 - **Fact Table (`Fact_Sales`):** Line-item transaction grain storing `Sales`, `Shipping Days`, `SLA Target Days`, `SLA Status`, and foreign keys (`Order ID`, `Customer ID`, `ProductKey`, `GeoKey`, `Order Date`, `Ship Date`).
