@@ -1,115 +1,112 @@
-<!-- Header Banner with your Name -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2BBC8A&center=true&vCenter=true&width=700&height=70&lines=ABDALLAH+ELSAYED;Data+Analyst+%7C+BI+Specialist" alt="Abdallah's Banner" />
-</p>
+<div align="center">
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+<img src="https://i.postimg.cc/k4RmNprz/Gemini-Generated-Image-i95hn0i95hn0i95h.png" alt="Global Supply Chain & Logistics Analytics Banner" width="100%">
 
-My name is Abdallah Elsayed and I'm a Data Analyst / Business Intelligence Specialist based in Egypt. I specialize in transforming raw datasets into structured, interactive dashboards and actionable business insights. You can check my [![Portfolio][5.2]][5], find me on [![LinkedIn][3.2]][3], or reach out via [![Gmail][4.2]][4].
+# 🚚 Global Supply Chain & Logistics Analytics
+### End-to-End Python Data Cleaning, SLA Variance Engineering & Profitability Root-Cause Analysis
 
----
+![Python](https://img.shields.io/badge/Python-3.13-10B981?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Engineering-059669?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Analytics-047857?style=for-the-badge&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-Visuals-065F46?style=for-the-badge)
 
-## 🔧 Technologies & Skills Detail
+[**📓 View Full Python Notebook**](./SupplyChainDataset.ipynb) • [**🌐 Live Portfolio**](https://abdallah-elsayed-1.github.io/Abdallah-Elsayed-1/)
 
-### 📊 Power BI & Data Visualization
-![](https://img.shields.io/badge/Analysis-Power_BI-informational?style=flat&logo=powerbi&logoColor=white&color=2bbc8a)
-- **Advanced DAX:** Writing complex measures, calculated columns, dynamic metrics, and custom time intelligence functions (`SAMEPERIODLASTYEAR`, `TOTALYTD`, etc.).
-- **Data Modeling:** Building robust Relational Data Models (Star Schema / Snowflake Schema) and managing relationships.
-- **UI/UX & Dark Mode:** Designing user-friendly interactive dashboards with dark mode themes and clear navigational flows.
-
-### 📈 Microsoft Excel & Power Query
-![](https://img.shields.io/badge/Analysis-Excel-informational?style=flat&logo=microsoftexcel&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/ETL-Power_Query-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
-- **Excel Analytics:** Advanced formulas (`XLOOKUP`, `INDEX/MATCH`, `SUMIFS`), Pivot Tables, and automated reporting templates.
-- **Power Query (ETL):** Data extraction, transformation, merging, unpivoting, and cleaning raw datasets for analysis.
-
-### 🐍 Python Data Analysis Stack
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Library-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Environment-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
-- **Pandas:** Data manipulation, cleaning, aggregation, grouping, and handling missing values.
-- **NumPy:** Numerical computing, array operations, and matrix calculations.
-- **Data Visualization:** Creating exploratory charts and data plots using **Matplotlib** and **Seaborn**.
-- **Jupyter Notebook:** Conducting step-by-step Exploratory Data Analysis (EDA) and documenting workflows.
-
-### 🗄️ Database Management & Tools
-![](https://img.shields.io/badge/Database-SQL_Server-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-- **SQL Server:** Writing queries (`SELECT`, `JOINs`, `GROUP BY`, Aggregate Functions) to query and analyze relational data.
-- **Git & GitHub:** Version control and sharing analytical project repositories.
-
-### 🎯 Problem Solving & Frameworks
-- Applying structured problem-solving frameworks: **DMAIC**, **PDCA**, **Root Cause Analysis (RCA)**, and **SMART** questioning.
+</div>
 
 ---
 
-## ✍️ Featured Projects
+## 📌 Business Use Case
 
-<!-- PROJECT-LIST:START -->
-1. 🚀 **[Enterprise Retail & Supply Chain Intelligence Portal](https://github.com/Abdallah-Elsayed-1/Enterprise-Retail-Supply-Chain-Intelligence-Portal)**
-  - Engineered an end-to-end Power BI executive decision system analyzing $2.26M in gross revenue across 4,922 orders, integrating normalized Star Schema modeling, Power Query M-Code ETL, and custom GPU-accelerated HTML/CSS/SVG visuals.
-  - Unified commercial growth tracking (+50.4% trajectory), SLA compliance diagnostics (67.5% on-time rate, $697.9K revenue at risk), and repeat customer cohort retention (81.9% loyalty share).
+**DataCo Global** operates a multi-regional supply chain and e-commerce fulfillment network across **Europe, LATAM, Pacific Asia, USCA, and Africa**. While generating **$36.78M** in gross revenue across **180,519** transactions, operations leadership faced two critical bottlenecks eroding customer retention and net profitability:
 
-2. 🚚 **[Global Supply Chain & Logistics Analytics](https://github.com/Abdallah-Elsayed-1/Global-Supply-Chain-Logistics-EDA)**
-  - Executed end-to-end Python data cleaning, feature engineering, and exploratory root-cause analysis across 180,519 global logistics transactions ($36.78M revenue).
-  - Engineered SLA delivery variance metrics (`shipping_delay_days`), diagnosing a 54.83% late-delivery bottleneck and isolating cumulative margin losses to 3 specific SKUs.
+* **Severe SLA Breaches:** **54.83%** of all orders (`98,977` shipments) arrived behind schedule, raising urgent questions around carrier reliability versus unrealistic delivery commitments.
+* **Unexplained Margin Leakage:** **18.71%** of orders (`33,784` transactions) were fulfilled at a net financial loss, with ambiguity over whether promotional discounting or specific product lines were driving negative margins.
 
-3. 🌐 **[Global Intelligence & Macroeconomic BI](https://github.com/Abdallah-Elsayed-1/global-intelligence-macroeconomic-bi)**
-  - Built an executive dark-themed intelligence suite tracking global economic indicators, demographics, trade flows, and infrastructure.
-  - Architected multi-fact Star Schema data models and dynamic DAX metrics for multi-country comparative analysis.
-
-4. ☕ **[Retail Coffee Sales BI Suite](https://github.com/Abdallah-Elsayed-1/retail-coffee-sales-bi)**
-  - Developed an end-to-end commercial analytics platform evaluating multi-branch coffee chain sales and revenue drivers.
-  - Built automated M-Code ETL pipelines, Star Schema modeling, and executive KPI diagnostics for unit economics.
-
-5. 🚢 **[Global Sales Operations Analytics](https://github.com/Abdallah-Elsayed-1/Global-Sales-Operations-Analytics)**
-  - Designed an interactive operational monitoring dashboard evaluating international sales streams, order fulfillment, and logistics pipelines.
-  - Analyzed hourly time-distribution patterns and category performance across geographic regions.
-
-6. 📱 **[Instagram Reach & Audience Engagement Analytics](https://github.com/Abdallah-Elsayed-1/-Instagram-Reach-Audience-Engagement-Analytics)**
-  - Conducted an end-to-end Exploratory Data Analysis (EDA) using Python (Pandas, NumPy, and Seaborn).
-  - Evaluated impression source funnels, content engagement drivers, and conversion correlation dynamics.
-
-7. 💻 **[Retail Sales ROI Analytics](https://github.com/Abdallah-Elsayed-1/Retail-Sales-ROI-Analytics)**
-  - Developed an executive dashboard analyzing retail profitability, landed costs, and ROI margins.
-  - Integrated custom page navigation, diagnostic waterfall visuals, and automated M-Code ETL transformations.
-
-8. 📊 **[Coffee Shop Sales & Hourly Flow Analysis](https://github.com/Abdallah-Elsayed-1/Coffee-Shop-Sales-Analysis)**
-  - Built a comprehensive sales performance monitor tracking peak transaction hours, daily volume, and basket size.
-  - Implemented custom date/time dimension modeling and Time Intelligence DAX measures for customer flow optimization.
-
-9. 📈 **[Excel Power Pivot Financial Modeling](https://github.com/Abdallah-Elsayed-1/Excel-Power-Pivot-Financial-Modeling)**
-  - Architected a complete corporate financial analysis model using Power Query, Power Pivot, and Star Schema design.
-  - Configured custom DAX financial measures to evaluate YoY revenue variance and margin performance.
-
-10. 🌍 **[Enterprise Global Sales Power BI Dashboard](https://github.com/Abdallah-Elsayed-1/Global-Sales-PowerBI-Dashboard)**
-  - Constructed a multi-year sales performance monitor (2012–2014) evaluating profit margins and customer segments.
-  - Implemented cross-regional drill-downs and dynamic slicer synchronization for executive review.
-<!-- PROJECT-LIST:END -->
+**Analytical Goal:** Build a clean, production-ready data pipeline and execute root-cause EDA to diagnose shipping SLA failures, measure discount-to-profit elasticity, and isolate loss-making SKUs.
 
 ---
 
-## 📬 Let's Connect!
+## ⚡ Executive KPIs at a Glance
 
-> *Feel free to reach out for collaborations, data analytics discussions, or professional opportunities.*
-
-- 🌐 **Portfolio:** [abdallah-elsayed-1.github.io](https://abdallah-elsayed-1.github.io/Abdallah-Elsayed-1/?ref=github)
-- 💼 **LinkedIn:** [abdallah-elsayed-d1](https://www.linkedin.com/in/abdallah-elsayed-d1)
-- 🐙 **GitHub:** [@Abdallah-Elsayed-1](https://github.com/Abdallah-Elsayed-1)
-- 📧 **Gmail:** [abdallahhelsayedd@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=abdallahhelsayedd@gmail.com)
-- 📱 **WhatsApp:** [+20 101 480 9916](https://wa.me/201014809916)
+* **Dataset Scale:** `180,519` transactions standardized from `53` raw columns down to `41` high-value features (`0` nulls)
+* **Gross Revenue:** `$36.78M` across 11 departments and 5 global markets
+* **Total Net Profit:** `$3.97M` (`10.78%` overall net profit margin)
+* **Late Delivery Rate:** `54.83%` (`98,977` delayed shipments)
+* **Unprofitable Orders:** `18.71%` (`33,784` loss-making orders)
+* **Discount-Profit Correlation:** `-0.0186` (proving discounts are not the root cause of losses)
 
 ---
 
-<!-- links to social media icons -->
+## 🔍 Root-Cause Findings & Visual Insights
 
-[3.2]: https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white (LinkedIn icon)
-[4.2]: https://img.shields.io/badge/-Gmail-2bbc8a?style=flat&logo=gmail&logoColor=white (Gmail icon)
-[5.2]: https://img.shields.io/badge/-Portfolio-2bbc8a?style=flat&logo=googlechrome&logoColor=white (Portfolio icon)
+### 1. Overall Delivery Status Distribution
+* **54.83%** (`98,977` orders) resulted in `Late delivery`, outnumbering `Advance shipping` (**23.04%**) and `Shipping on time` (**17.84%**) combined.
 
-<!-- links to your social media accounts -->
+<div align="center">
+  <img src="https://i.postimg.cc/Vs76W3bV/Screenshot-2026-11-23-230011.png" alt="Distribution of Delivery Status" width="80%">
+</div>
 
-[3]: https://www.linkedin.com/in/abdallah-elsayed-d1
-[4]: https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=abdallahhelsayedd@gmail.com
-[5]: https://abdallah-elsayed-1.github.io/Abdallah-Elsayed-1/?ref=github
+---
+
+### 2. Shipping SLA Compliance Bottlenecks by Tier
+* **First Class** suffered a **95.32%** late delivery rate (averaging **+1.00 day** past SLA), followed by **Second Class** at **76.63%** (averaging **+1.99 days** delay).
+* **Standard Class** maintained a significantly lower **38.07%** late rate (averaging **-0.004 days** variance).
+* **Diagnosis:** SLA breaches are concentrated in expedited tiers due to overly aggressive scheduled delivery windows (`days_for_shipment_scheduled`) rather than systemic carrier slowness.
+
+<div align="center">
+  <img src="https://i.postimg.cc/9XxMYv73/Screenshot-2026-11-23-230054.png" alt="Late Delivery Risk Rate by Shipping Mode" width="80%">
+</div>
+
+---
+
+### 3. Revenue Concentration, Seasonality & Margin Leakage
+* **Top Profit Drivers:** **Fan Shop** (`$17.11M` sales / `$1.83M` profit) and **Apparel** (`$7.98M` sales / `$881.9K` profit) dominate company revenue, alongside **Fishing** (`$6.93M`) and **Cleats** (`$4.43M`).
+* **Discount vs. Profit Reality:** Correlation between `order_item_discount_rate` and `benefit_per_order` is **-0.0186**, confirming that promotional discounting does **not** drive negative profit.
+* **SKU-Level Losses:** Cumulative net losses across the entire catalog are isolated to **only 3 SKUs**:
+  * `SOLE E35 Elliptical` (**-$965.12** cumulative net loss)
+  * `Bushnell Pro X7 Jolt Slope Rangefinder` (**-$255.95** cumulative net loss)
+  * `SOLE E25 Elliptical` (**-$169.56** cumulative net loss)
+
+<div align="center">
+  <img src="https://i.postimg.cc/59P0SZCW/Screenshot-2026-11-23-230122.png" alt="Total Sales by Department" width="80%">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://i.postimg.cc/1RWtrLqZ/Screenshot-2026-11-23-230142.png" alt="Total Sales by Month" width="80%">
+</div>
+
+---
+
+## 🛠️ Data Engineering & Analytical Workflow
+
+* **Programmatic Redundancy Validation:** Mathematically verified 100% equivalence across duplicate price, customer ID, and order total fields before dropping, reducing memory usage from **73.0+ MB** to **52.3+ MB**.
+* **Data Governance & PII Hygiene:** Stripped sensitive and non-analytical attributes (`Customer Email`, `Customer Password`, `Customer Street`, `Customer Zipcode`) and standardized all schema headers to `snake_case`.
+* **Domain-Specific Feature Engineering:**
+  * `shipping_delay_days`: Engineered exact SLA variance (`days_for_shipping_real - days_for_shipment_scheduled`) to evaluate fulfillment accuracy.
+  * `customer_full_name`: Consolidated customer first and last names cleanly.
+  * `order_year` & `order_month`: Extracted temporal dimensions from parsed `datetime64` timestamps for seasonality tracking.
+* **BI-Ready Output:** Exported `SupplyChain_Cleaned.csv` ready for downstream Power BI dimensional modeling and SQL warehousing.
+
+---
+
+## 🚀 Actionable Recommendations
+
+1. **Recalibrate Expedited SLAs:** Adjust `days_for_shipment_scheduled` windows for *First Class* and *Second Class* tiers to match realistic carrier transit times and eliminate chronic SLA breaches.
+2. **Audit Loss-Making SKUs:** Restructure supplier costs, freight charges, and retail pricing for `SOLE E35 Elliptical`, `SOLE E25 Elliptical`, and `Bushnell Pro X7`.
+3. **Protect High-Margin Core Lines:** Prioritize inventory availability and fulfillment speed for **Fan Shop** and **Fishing** categories, which generate the bulk of company revenue and net profit.
+
+---
+
+## 📂 Repository Contents
+
+* `SupplyChainDataset.ipynb` — Complete Python EDA notebook (Data Cleaning, Feature Engineering, Statistical Analysis & Dark-Mode Visuals)
+* `README.md` — Executive Business Use Case, KPI Summary & Strategic Recommendations
+
+---
+
+<div align="center">
+  <b>Engineered by <a href="https://abdallah-elsayed-1.github.io/Abdallah-Elsayed-1/">Abdallah Elsayed</a></b> • Data & BI Analyst
+</div>
